@@ -1,7 +1,10 @@
-.env
-*.env
-**/.env
-**/*.env
-scripts/git/.env
-scripts/vercel/.env
-.vercel/
+.DS_Store
+*.pyc
+
+appengine/generated/
+appengine/*/generated/
+appengine/*/*/generated/
+appengine/third-party/
+build/third-party-downloads/
+/offline
+/node_modules
