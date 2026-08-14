@@ -18,7 +18,8 @@ if (location.host === 'blockly-games.appspot.com') {
 
 (function() {
   // Application path.
-  var appName = location.pathname.match(/\/([-\w]+)(\.html)?$/);
+  var pathname = location.pathname.replace(/\/+$/, '') || '/';
+  var appName = pathname.match(/\/([-\w]+)(\.html)?$/);
   appName = appName ? appName[1].replace('-', '/') : 'index';
 
   function normalizeLanguage(lang) {
@@ -81,18 +82,18 @@ if (location.host === 'blockly-games.appspot.com') {
   // Load the chosen language pack.
   var script = document.createElement('script');
   if (debug) {
-    script.src = 'generated/msg/' + lang + '.js';
+    script.src = '/generated/msg/' + lang + '.js';
   } else {
-    script.src = appName + '/generated/msg/' + lang + '.js';
+    script.src = '/' + appName + '/generated/msg/' + lang + '.js';
   }
   script.type = 'text/javascript';
   document.head.appendChild(script);
   // Load the code bundle for the chosen game.
   var script = document.createElement('script');
   if (debug) {
-    script.src = appName + '/generated/uncompressed.js';
+    script.src = '/' + appName + '/generated/uncompressed.js';
   } else {
-    script.src = appName + '/generated/compressed.js';
+    script.src = '/' + appName + '/generated/compressed.js';
   }
   script.type = 'text/javascript';
   document.head.appendChild(script);
