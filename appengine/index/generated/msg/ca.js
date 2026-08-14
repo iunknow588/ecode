@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Blockly Games","Games.puzzle":"Trencaclosques","Games.maze":"Laberint","Games.bird":"Ocell","Games.turtle":"Tortuga","Games.movie":"Pel·lícula","Games.music":"Música","Games.pondTutor":"Tutor de La Bassa","Games.pond":"La Bassa","Index.clear":"Eliminar totes les solucions?","Index.subTitle":"Jocs pels programadors del futur.","Index.moreInfo":"Info per als educadors...","Index.startOver":"Vols tornar a començar?","Index.clearData":"Esborrar totes les dades"}

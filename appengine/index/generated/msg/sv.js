@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Blocklyspel","Games.puzzle":"Pussel","Games.maze":"Labyrint","Games.bird":"Fågel","Games.turtle":"Sköldpadda","Games.movie":"Film","Games.music":"Musik","Games.pondTutor":"Dammhandledare","Games.pond":"Damm","Index.clear":"Radera alla dina lösningar?","Index.subTitle":"Spel för morgondagens programmerare.","Index.moreInfo":"Information för lärare...","Index.startOver":"Vill du börja om?","Index.clearData":"Rensa data"}

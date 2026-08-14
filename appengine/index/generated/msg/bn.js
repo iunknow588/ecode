@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"ব্লকলি খেলা","Games.puzzle":"ধাঁধা","Games.maze":"গোলকধাঁধা","Games.bird":"পাখি","Games.turtle":"কচ্ছপ","Games.movie":"চলচ্চিত্র","Games.music":"সঙ্গীত","Games.pondTutor":"মহাগুরু","Games.pond":"পুকুর","Index.clear":"আপনি কি আপনার সব সমাধান মুছে ফেলতে চান?","Index.subTitle":"ভবিষ্যতের প্রোগ্রামারদের খেলা।","Index.moreInfo":"বিস্তারিত তথ্য...","Index.startOver":"পুনরায় শুরু করতে চান?","Index.clearData":"তথ্য মুছুন"}

@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Blockly Games","Games.puzzle":"Puzzle","Games.maze":"Labirint","Games.bird":"Păsări","Games.turtle":"Țestoasă","Games.movie":"Film","Games.music":"Muzică","Games.pondTutor":"Pond Tutor","Games.pond":"Pond","Index.clear":"Ștergeți toate soluțiile?","Index.subTitle":"Jocuri pentru programatorii de mâine.","Index.moreInfo":"Mai multe informații","Index.startOver":"Vrei să începi?","Index.clearData":"Ștergeți datele"}

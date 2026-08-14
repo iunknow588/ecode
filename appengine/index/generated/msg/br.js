@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"C'hoarioù Blockly","Games.puzzle":"Miltamm","Games.maze":"Milendall","Games.bird":"Labous","Games.turtle":"Baot","Games.movie":"Film","Games.music":"Sonerezh","Games.pondTutor":"Tutorial Stank","Games.pond":"Stank","Index.clear":"Lemel holl ho tiskoulmoù ?","Index.subTitle":"C'hoarioù evit programmerien warc'hoazh.","Index.moreInfo":"Titouroù pedagogel...","Index.startOver":"Ha c'hoant ho peus da adkregiñ ?","Index.clearData":"Nullañ ar roadennoù"}

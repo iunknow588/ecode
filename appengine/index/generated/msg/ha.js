@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Wasannin Blockly","Games.puzzle":"Ɗaurin Gwarmai","Games.maze":"Kanannnaɗo","Games.bird":"Tsuntsu","Games.turtle":"Kunkuru","Games.movie":"Sinima","Games.music":"Kiɗa","Games.pondTutor":"Malam-na-bakin-kogi","Games.pond":"Kogi","Index.clear":"A gode duk amsoshinka?","Index.subTitle":"Wasanni domin masu tsara shirye-shirye na gobe.","Index.moreInfo":"Ƙarin bayani...","Index.startOver":"Kana so ka fara daga farko?","Index.clearData":"A goge bayanai"}

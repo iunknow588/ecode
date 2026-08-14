@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Blockly Trò Chơi","Games.puzzle":"Đố vui","Games.maze":"Ma trận","Games.bird":"Chim","Games.turtle":"Rùa","Games.movie":"Phim","Games.music":"Âm nhạc","Games.pondTutor":"Hướng dẫn chơi Ao hồ","Games.pond":"Ao hồ","Index.clear":"Xóa cách giải quyết của bạn?","Index.subTitle":"Trò chơi cho người lập trình của ngày mai.","Index.moreInfo":"Thông tin dành cho người giáo dục...","Index.startOver":"Bạn có muốn bắt đầu lại từ đầu?","Index.clearData":"Xóa dữ liệu"}

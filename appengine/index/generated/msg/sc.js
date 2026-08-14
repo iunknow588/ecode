@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Giogus de Blockly","Games.puzzle":"Puzzle","Games.maze":"Labirintu","Games.bird":"Pilloni","Games.turtle":"Tostoinu","Games.movie":"Filmi","Games.music":"Music","Games.pondTutor":"Pond Tutor","Games.pond":"Stàini","Index.clear":"Scancellu totu is solutzionis tuas?","Index.subTitle":"Giogus po is programadoris de cras.","Index.moreInfo":"Àteras informatzionis...","Index.startOver":"Bolis torrai a cumentzai?","Index.clearData":"Fùlia datus"}

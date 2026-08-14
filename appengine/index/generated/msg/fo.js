@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Blokkaspæl","Games.puzzle":"Putlispæl","Games.maze":"Villiniborg","Games.bird":"Fuglur","Games.turtle":"Skjaldbøka","Games.movie":"Filmur","Games.music":"Tónleikur","Games.pondTutor":"Tjørn Vegleiðari","Games.pond":"Tjørn","Index.clear":"Strika allar tínar loysnir","Index.subTitle":"Spøl fyri framtíðar forritarar.","Index.moreInfo":"Upplýsingar til lærarar...","Index.startOver":"Byrja umaftur?","Index.clearData":"Reinsa dáta"}

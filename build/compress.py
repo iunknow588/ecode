@@ -130,13 +130,13 @@ def language(gameName, lang):
 
 
 def generate_uncompressed(gameName):
-  cmd = ['third-party/closurebuilder/closurebuilder.py',
+  cmd = [sys.executable, 'third-party/closurebuilder/closurebuilder.py',
       '--root=appengine/third-party/',
       '--root=appengine/generated/',
       '--root=appengine/src/',
       '--exclude=',
       '--namespace=%s' % gameName.replace('/', '.').title()]
-  directory = gameName
+  directory = gameName.replace('\\', '/')
   while directory:
     subdir = 'appengine/%s/generated/' % directory
     if os.path.isdir(subdir):
@@ -144,7 +144,7 @@ def generate_uncompressed(gameName):
     subdir = 'appengine/%s/src/' % directory
     if os.path.isdir(subdir):
       cmd.append('--root=%s' % subdir)
-    (directory, sep, fragment) = directory.rpartition(os.path.sep)
+    (directory, sep, fragment) = directory.rpartition('/')
   try:
     proc = subprocess.Popen(cmd, stdout=subprocess.PIPE)
   except:
@@ -158,7 +158,7 @@ def generate_uncompressed(gameName):
   prefix = 'appengine/'
   srcs = []
   for file in files:
-    file = file.strip()
+    file = file.strip().replace('\\', '/')
     if file[:len(prefix)] == prefix:
       file = file[len(prefix):]
     else:
@@ -209,10 +209,10 @@ def generate_compressed(gameName):
     "--js='appengine/src/*.js'",
     '--warning_level', 'QUIET',
   ]
-  directory = gameName
+  directory = gameName.replace('\\', '/')
   while directory:
     cmd.append("--js='appengine/%s/src/*.js'" % directory)
-    (directory, sep, fragment) = directory.rpartition(os.path.sep)
+    (directory, sep, fragment) = directory.rpartition('/')
   try:
     proc = subprocess.Popen(cmd, stdout=subprocess.PIPE)
   except:

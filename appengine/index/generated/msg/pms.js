@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Gieugh ëd Blockly","Games.puzzle":"S-ciapatesta","Games.maze":"Labirint","Games.bird":"Osel","Games.turtle":"Bissa copera","Games.movie":"Film","Games.music":"Mùsica","Games.pondTutor":"Magìster ëd Pond","Games.pond":"Baciass","Index.clear":"Dëscancelé tute le soe solussion?","Index.subTitle":"Gieugh për ij programator ëd doman.","Index.moreInfo":"Anformassion për j'educator...","Index.startOver":"Veul-lo ancaminé dal prinsipi?","Index.clearData":"Dëscancelé ij dàit"}

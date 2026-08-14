@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"„Blockly“ žaidimai","Games.puzzle":"Dėlionė","Games.maze":"Labirintas","Games.bird":"Paukštis","Games.turtle":"Vėžlys","Games.movie":"Filmas","Games.music":"Muzika","Games.pondTutor":"Tvenkinio mokytojas","Games.pond":"Tvenkinys","Index.clear":"Ištrinti visus sprendimus?","Index.subTitle":"Žaidimai rytojaus programuotojams.","Index.moreInfo":"Informacija švietėjams...","Index.startOver":"Norite pradėti iš naujo?","Index.clearData":"Išvalyti duomenis"}

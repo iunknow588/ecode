@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"ሳንዱቅ ጨዋታ","Games.puzzle":"ግድል","Games.maze":"ሓፁር","Games.bird":"ዒፍ","Games.turtle":"ኣባጋውየ","Games.movie":"ፊልም","Games.music":"ሙዚቃ","Games.pondTutor":"ቃላይ መምህር","Games.pond":"ቃላይ","Index.clear":"ኩሎም መልስታትካ ክትስርዞም?","Index.subTitle":"ጨዋታ ፕሮግራመራት ፅባሕ።","Index.moreInfo":"ንዝበለፀ ሓበሬታ...","Index.startOver":"ከምብሓድሽ ክትጅምር ትደሊ?","Index.clearData":"ዳታ ደምስስ"}

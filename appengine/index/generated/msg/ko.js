@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"블록리 게임","Games.puzzle":"퍼즐","Games.maze":"미로","Games.bird":"새","Games.turtle":"거북이","Games.movie":"동영상","Games.music":"음악","Games.pondTutor":"폰드 튜터","Games.pond":"Pond","Index.clear":"당신의 모든 답을 지웁니까?","Index.subTitle":"미래의 프로그래머들을 위한 게임.","Index.moreInfo":"교사 정보...","Index.startOver":"다시 시작하시겠습니까?","Index.clearData":"데이터 지우기"}

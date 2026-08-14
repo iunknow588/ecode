@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Ere Blocky","Games.puzzle":"Adojuru","Games.maze":"Iruju","Games.bird":"Ẹyẹ","Games.turtle":"Adaba","Games.movie":"Fiimu","Games.music":"Orin","Games.pondTutor":"Omi ikudu","Games.pond":"Olukọ","Index.clear":"Pa gbogbo awọn ojutu rẹ rẹẹ?","Index.subTitle":"Ere fun awọn pirogirama ọla.","Index.moreInfo":"Fun alaye diẹ sii...","Index.startOver":"O fẹ lati tun bẹrẹ?","Index.clearData":"Pa data rẹ"}

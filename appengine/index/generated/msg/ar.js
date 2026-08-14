@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"الالعاب الكتلية","Games.puzzle":"أحجية","Games.maze":"المتاهة","Games.bird":"طائر","Games.turtle":"السلحفاة","Games.movie":"فلم","Games.music":"موسيقى","Games.pondTutor":"مدرب البركة","Games.pond":"البركة.","Index.clear":"حذف كل حلولك؟","Index.subTitle":"ألعاب لمبرمجي الغد.","Index.moreInfo":"معلومات للمعلمين...","Index.startOver":"هل ترغب في البدأ من جديد؟","Index.clearData":"امح البيانات"}

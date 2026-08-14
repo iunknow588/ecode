@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Ludoj de Blockly","Games.puzzle":"Puzlo","Games.maze":"Labirinto","Games.bird":"Birdo","Games.turtle":"Testudo","Games.movie":"Filmo","Games.music":"Muziko","Games.pondTutor":"Gvidanto de lageto","Games.pond":"Lageto","Index.clear":"Ĉu forigi ĉiujn viajn solvojn?","Index.subTitle":"Ludoj por la programistoj de la morgaŭo.","Index.moreInfo":"Informoj por edukistoj...","Index.startOver":"Ĉu vi volas rekomenci?","Index.clearData":"Viŝi datumojn"}

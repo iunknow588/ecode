@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Blocky Jokoak","Games.puzzle":"Puzzle","Games.maze":"Labirintoa","Games.bird":"Txoria","Games.turtle":"Dortoka","Games.movie":"Filma","Games.music":"Musika","Games.pondTutor":"Putzu Tutorea","Games.pond":"Urmaela","Index.clear":"Emaitza guztiak ezabatu?","Index.subTitle":"Biharko programatzaileentzako jokoak.","Index.moreInfo":"Pedagogoentzako informazioa...","Index.startOver":"Berriz hasi nahi duzu?","Index.clearData":"Datuak ezabatu"}

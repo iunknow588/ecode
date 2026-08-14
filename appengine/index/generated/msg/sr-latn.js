@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Blokli igre","Games.puzzle":"Slagalica","Games.maze":"Lavirint","Games.bird":"Ptica","Games.turtle":"Kornjača","Games.movie":"Film","Games.music":"Muzika","Games.pondTutor":"Tutor za Ribnjak","Games.pond":"Ribnjak","Index.clear":"Uklonite sve vaše odluke?","Index.subTitle":"Igre za buduće programere.","Index.moreInfo":"Više informacija...","Index.startOver":"Želite da počnete ispočetka?","Index.clearData":"Obriši podatke"}

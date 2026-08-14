@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"ಬ್ಲಾಕ್ಲಿ ಆಟಗಳು","Games.puzzle":"ಒಗಟು","Games.maze":"ಸಿಕ್ಕು ದಾರಿ","Games.bird":"ಪಕ್ಷಿ","Games.turtle":"ಆಮೆ","Games.movie":"ಚಲನಚಿತ್ರ","Games.music":"ಸಂಗೀತ","Games.pondTutor":"ಕೊಳದ ಬೋಧಕ","Games.pond":"ಕೊಳ","Index.clear":"ನಿಮ್ಮ ಎಲ್ಲಾ ಪರಿಹಾರಗಳನ್ನು ಅಳಿಸುವುದೇ?","Index.subTitle":"ನಾಳಿನ ಪ್ರೋಗ್ರಾಮರ್ಗಳಿಗಾಗಿ ಇರುವ ಆಟಗಳು.","Index.moreInfo":"ಶಿಕ್ಷಣ ತಜ್ಞರಿಗಾಗಿ ಮಾಹಿತಿ...","Index.startOver":"ಪುನಃ ಪ್ರಾರಂಭಿಸಲು ಬಯಸುವಿರಾ?","Index.clearData":"ಡೇಟಾವನ್ನು ತೆರವುಗೊಳಿಸಿ"}

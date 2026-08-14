@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"משחקי בלוקלי","Games.puzzle":"פאזל","Games.maze":"מבוך","Games.bird":"ציפור","Games.turtle":"צב","Games.movie":"סרט","Games.music":"מוזיקה","Games.pondTutor":"מדריך האגם","Games.pond":"אגם","Index.clear":"למחוק את כל הפתרונות שלך?","Index.subTitle":"משחקים למתכנתים של מחר.","Index.moreInfo":"מידע למורים…","Index.startOver":"רוצה להתחיל מחדש?","Index.clearData":"ניקוי נתונים"}

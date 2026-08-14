@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Hry Blockly","Games.puzzle":"Skládačka","Games.maze":"Bludiště","Games.bird":"Pták","Games.turtle":"Želva","Games.movie":"Film","Games.music":"Music","Games.pondTutor":"Rybník - cvičení","Games.pond":"Rybník","Index.clear":"Smazat všechna řešení?","Index.subTitle":"Hry budoucích programátorů.","Index.moreInfo":"Informace pro vyučující...","Index.startOver":"Chceš začít znovu?","Index.clearData":"Vymazat data"}

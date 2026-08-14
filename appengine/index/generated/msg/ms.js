@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Permainan Blockly","Games.puzzle":"Teka-teki","Games.maze":"Pagar Sesat","Games.bird":"Burung","Games.turtle":"Pepenyu","Games.movie":"Filem","Games.music":"Muzik","Games.pondTutor":"Pond Tutor","Games.pond":"Pond","Index.clear":"Hapuskan semua penyelesaian anda?","Index.subTitle":"Permainan untuk pengaturcara masa depan.","Index.moreInfo":"Maklumat lanjut...","Index.startOver":"Nak mula balik?","Index.clearData":"Padamkan data"}

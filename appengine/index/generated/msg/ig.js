@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Egwuregwu Blockly","Games.puzzle":"Mgbagwoju anya","Games.maze":"Rịgọrịgọ","Games.bird":"Nnụnụ","Games.turtle":"Mbe","Games.movie":"Ihe nkịrị","Games.music":"Egwu","Games.pondTutor":"Onye nkụzị Ọdọ mmiri","Games.pond":"Ọdọ mmiri","Index.clear":"Kpochapụ ihe ngwọta gị niile?","Index.subTitle":"Egwuregwu maka onye n’ede koodu nke echi.","Index.moreInfo":"Ozi ndị ọzọ...","Index.startOver":"Ịchọrọ ịmalite n’isi?","Index.clearData":"Hichapụ data"}

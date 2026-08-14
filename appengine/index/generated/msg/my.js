@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Blockly Games","Games.puzzle":"ပဟေဠိ","Games.maze":"ဝင်္ကဘာ","Games.bird":"ငှက်","Games.turtle":"ပင်လယ်လိပ်","Games.movie":"ရုပ်ရှင်","Games.music":"ဂီတ","Games.pondTutor":"ရေကန်","Games.pond":"ရေကန်","Index.clear":"သင်ဖြေရှင်းထားမှုများအားလုံး ဖျက်လိုပါသလား။","Index.subTitle":"အနာဂတ်၏ ပရိုဂမ်မာများအတွက် ကစားနည်းများ။","Index.moreInfo":"နောက်ထပ်သတင်းအချက်အလက်များ။","Index.startOver":"အစကနေပြန်စလိုပါသလား။","Index.clearData":"Data များရှင်းလင်းမည်။"}

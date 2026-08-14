@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Uraren n Blocky","Games.puzzle":"Apuzzel","Games.maze":"Aslellay","Games.bird":"Agḍiḍ","Games.turtle":"Tifkert","Games.movie":"Asaru","Games.music":"Aẓawan","Games.pondTutor":"Tamsirt n Pond","Games.pond":"Pond","Index.clear":"Ad tsefḍeḍ akk ayen yellan?","Index.subTitle":"Uraren i yimessihlen n uzekka.","Index.moreInfo":"Isallen isensegmayen...","Index.startOver":"Tebɣiḍ ad as-tɛiwdeḍ s wadda?","Index.clearData":"Sfeḍ isefka"}

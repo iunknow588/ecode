@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Blockly játékok","Games.puzzle":"Kirakós","Games.maze":"Labirintus","Games.bird":"Madár","Games.turtle":"Teknőc","Games.movie":"Film","Games.music":"Zene","Games.pondTutor":"Tó gyakorló","Games.pond":"Tó","Index.clear":"Biztos hogy törölni szeretnéd az összes megoldásod?","Index.subTitle":"A jövő programozóinak játékai.","Index.moreInfo":"Információk oktatóknak...","Index.startOver":"Szeretnéd az elejéről kezdeni?","Index.clearData":"Adatok törlése"}

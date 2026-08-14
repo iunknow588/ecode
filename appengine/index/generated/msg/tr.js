@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"Blockly Oyunlar","Games.puzzle":"Bulmaca","Games.maze":"Labirent","Games.bird":"Kuş","Games.turtle":"Kaplumbağa","Games.movie":"Film","Games.music":"Müzik","Games.pondTutor":"Gölet Eğitimi","Games.pond":"Gölet","Index.clear":"Tüm çözümleriniz silinsin mi?","Index.subTitle":"Yarının programcıları için oyunlar.","Index.moreInfo":"Eğitimciler için bilgi...","Index.startOver":"Baştan başlamak ister misiniz?","Index.clearData":"Verileri temizle"}

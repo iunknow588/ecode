@@ -1,0 +1,2 @@
+// Automatically generated file.  Do not edit!
+var BlocklyGamesMsg={"Games.name":"የብሎክሊ ጨዋታዎች","Games.puzzle":"እንቆቅልሽ","Games.maze":"መንገድ","Games.bird":"ወፍ","Games.turtle":"ኤሊ","Games.movie":"ፊልም","Games.music":"ሙዚቃ","Games.pondTutor":"ኩሬ መምህር","Games.pond":"ኩሬ","Index.clear":"ሁሉንም መፍትሔዎችዎን ይሰረዙ?","Index.subTitle":"ለነገዎቹ ቀማሪዎች የተቀመሙ ጨዋታዎች","Index.moreInfo":"ለአስተማሪዎች መረጃ ...","Index.startOver":"እንደገና መጀመር ይፈልጋሉ?","Index.clearData":"መረጃ ያፅዱ"}
