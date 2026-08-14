@@ -21,6 +21,20 @@ if (location.host === 'blockly-games.appspot.com') {
   var appName = location.pathname.match(/\/([-\w]+)(\.html)?$/);
   appName = appName ? appName[1].replace('-', '/') : 'index';
 
+  function normalizeLanguage(lang) {
+    if (!lang) {
+      return null;
+    }
+    lang = unescape(lang).toLowerCase().replace(/_/g, '-');
+    if (/^zh-(cn|sg|my)$/.test(lang) || lang === 'zh') {
+      return 'zh-hans';
+    }
+    if (/^zh-(tw|hk|mo)$/.test(lang)) {
+      return 'zh-hant';
+    }
+    return lang;
+  }
+
   // Supported languages (consistent across all apps).
   window['BlocklyGamesLanguages'] = [
     'am', 'ar', 'be', 'be-tarask', 'bg', 'bn', 'br', 'ca', 'cs', 'da', 'de',
@@ -34,7 +48,7 @@ if (location.host === 'blockly-games.appspot.com') {
   // Use a series of heuristics that determine the likely language of this user.
   // First choice: The URL specified language.
   var param = location.search.match(/[?&]lang=([^&]+)/);
-  var lang = param ? param[1].replace(/\+/g, '%20') : null;
+  var lang = normalizeLanguage(param ? param[1].replace(/\+/g, '%20') : null);
   if (window['BlocklyGamesLanguages'].indexOf(lang) !== -1) {
     // Save this explicit choice as cookie.
     var exp = (new Date(Date.now() + 2 * 31536000000)).toUTCString();
@@ -42,10 +56,10 @@ if (location.host === 'blockly-games.appspot.com') {
   } else {
     // Second choice: Language cookie.
     var cookie = document.cookie.match(/(^|;)\s*lang=([\w\-]+)/);
-    lang = cookie ? unescape(cookie[2]) : null;
+    lang = normalizeLanguage(cookie ? cookie[2] : null);
     if (window['BlocklyGamesLanguages'].indexOf(lang) === -1) {
       // Third choice: The browser's language.
-      lang = navigator.language;
+      lang = normalizeLanguage(navigator.language);
       if (window['BlocklyGamesLanguages'].indexOf(lang) === -1) {
         // Fourth choice: English.
         lang = 'en';

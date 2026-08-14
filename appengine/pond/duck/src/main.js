@@ -286,12 +286,4 @@ function setBlocksDisabled(disabled) {
 }
 
 
-(function() {
-  //<script type="text/javascript" src="pond/duck/default-ducks.js"></script>
-  const script = document.createElement('script');
-  script.type = 'text/javascript';
-  script.src = 'pond/duck/default-ducks.js';
-  document.head.appendChild(script);
-})();
-
 BlocklyGames.callWhenLoaded(init);
