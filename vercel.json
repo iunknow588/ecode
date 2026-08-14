@@ -5,6 +5,46 @@
       "destination": "/appengine/index.html"
     },
     {
+      "source": "/about",
+      "destination": "/appengine/about.html"
+    },
+    {
+      "source": "/bird",
+      "destination": "/appengine/bird.html"
+    },
+    {
+      "source": "/gallery",
+      "destination": "/appengine/gallery.html"
+    },
+    {
+      "source": "/maze",
+      "destination": "/appengine/maze.html"
+    },
+    {
+      "source": "/movie",
+      "destination": "/appengine/movie.html"
+    },
+    {
+      "source": "/music",
+      "destination": "/appengine/music.html"
+    },
+    {
+      "source": "/pond-duck",
+      "destination": "/appengine/pond-duck.html"
+    },
+    {
+      "source": "/pond-tutor",
+      "destination": "/appengine/pond-tutor.html"
+    },
+    {
+      "source": "/puzzle",
+      "destination": "/appengine/puzzle.html"
+    },
+    {
+      "source": "/turtle",
+      "destination": "/appengine/turtle.html"
+    },
+    {
       "source": "/:path*",
       "destination": "/appengine/:path*"
     }
