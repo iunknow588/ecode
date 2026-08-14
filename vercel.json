@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/appengine/index.html"
+    },
+    {
+      "source": "/:path*",
+      "destination": "/appengine/:path*"
+    }
+  ]
+}
