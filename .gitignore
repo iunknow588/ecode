@@ -1,0 +1,7 @@
+.env
+*.env
+**/.env
+**/*.env
+scripts/git/.env
+scripts/vercel/.env
+.vercel/
