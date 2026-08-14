@@ -58,8 +58,14 @@ function Invoke-VercelWithRetry {
   $lastOutput = ""
   for ($attempt = 1; $attempt -le $attempts; $attempt += 1) {
     Write-Output ("Running: vercel {0} (attempt {1}/{2})" -f ($Arguments -join " "), $attempt, $attempts)
-    $output = Invoke-VercelCli -Arguments $Arguments 2>&1
-    $exitCode = $LASTEXITCODE
+    $previousErrorActionPreference = $ErrorActionPreference
+    $ErrorActionPreference = "Continue"
+    try {
+      $output = Invoke-VercelCli -Arguments $Arguments 2>&1
+      $exitCode = $LASTEXITCODE
+    } finally {
+      $ErrorActionPreference = $previousErrorActionPreference
+    }
     $lastOutput = ($output | Out-String).Trim()
     if ($lastOutput) {
       Write-Output $lastOutput
