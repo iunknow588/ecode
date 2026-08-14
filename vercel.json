@@ -45,6 +45,10 @@
       "destination": "/appengine/turtle.html"
     },
     {
+      "source": "/storage",
+      "destination": "/api/storage"
+    },
+    {
       "source": "/:path*",
       "destination": "/appengine/:path*"
     }
