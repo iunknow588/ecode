@@ -1,4 +1,15 @@
 {
+  "headers": [
+    {
+      "source": "/:path*",
+      "headers": [
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-eval' https://www.google-analytics.com; style-src 'self' 'unsafe-inline'; img-src 'self' data:; media-src 'self'; connect-src 'self' https://www.google-analytics.com; frame-src 'self'; worker-src 'self' blob:; object-src 'none'; base-uri 'self'"
+        }
+      ]
+    }
+  ],
   "rewrites": [
     {
       "source": "/",
